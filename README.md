@@ -21,7 +21,9 @@ The Password Generator project is a tool designed to create secure and random pa
 To use the Password Generator:
 
 1. **Clone the Repository:**
-2. **Navigate to the Project Directory:**
+
+         git clone https://github.com/2Fastt/Password-Generator.git
+3. **Navigate to the Project Directory:**
    
          cd password-generator
 4. **Run the Script:**
