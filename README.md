@@ -1,2 +1,37 @@
-# Password-Generator
-This project is a tool for generating secure and random passwords. It allows users to customize the generated password by specifying its length and the types of characters to include. Options include uppercase letters, numbers, and special symbols.
+# Password Generator
+
+## Description
+
+The Password Generator project is a tool designed to create secure and random passwords. Users can customize the generated passwords by specifying their length and choosing which types of characters to include. This includes uppercase letters, numbers, and special symbols. The tool is run via a command-line interface.
+
+## Features
+
+- **Random Password Generation:** Generate passwords with a specified length.
+- **Customization Options:** Include or exclude uppercase letters, numbers, and symbols.
+- **Command-Line Interface:** User-friendly prompts for entering options and displaying the generated password.
+
+## How It Works
+
+1. **User Input:** Prompts the user to specify the desired password length and whether to include uppercase letters, numbers, and symbols.
+2. **Password Generation:** Creates a random password based on user preferences.
+3. **Display:** Outputs the generated password to the user in a colorful format.
+
+## Usage
+
+To use the Password Generator:
+
+1. **Clone the Repository:**
+2. **Navigate to the Project Directory:**
+3. **Run the Script:**
+       python Password Generator.py
+4. **Follow the Prompts:**
+    Enter the desired length of the password.
+    Choose whether to include uppercase letters, numbers, and symbols.
+
+**Requirements**
+
+    Python 3.x
+
+**License**
+
+This project is licensed under the MIT License. See the LICENSE file for details.
