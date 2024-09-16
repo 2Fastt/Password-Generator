@@ -22,15 +22,16 @@ To use the Password Generator:
 
 1. **Clone the Repository:**
 2. **Navigate to the Project Directory:**
-3. **Run the Script:**
+   cd password-generator
+4. **Run the Script:**
        python Password Generator.py
-4. **Follow the Prompts:**
+5. **Follow the Prompts:**
     Enter the desired length of the password.
     Choose whether to include uppercase letters, numbers, and symbols.
 
 **Requirements**
 
-    Python 3.x
+Python 3.x
 
 **License**
 
